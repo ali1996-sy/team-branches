@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `team-name`
+> `Team Power`
 
 write a short description of your web page:
 
